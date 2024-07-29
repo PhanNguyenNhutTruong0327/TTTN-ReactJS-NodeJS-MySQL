@@ -1,0 +1,21 @@
+
+/* 
+.all-menu{
+    background-color:#2f323b;
+    height: 100%;
+}
+
+.title-admin .logo-admin img{
+    width: 60px;
+    height: 60px;
+} */
+
+.datarow .function_style
+{
+    visibility: hidden;
+}
+.datarow:hover .function_style
+{
+    visibility: visible;
+}
+ 
